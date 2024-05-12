@@ -1,0 +1,73 @@
+export const dummyData = [
+    {
+      id: 1,
+      name: "Introduction to Emerging Technologies",
+      desc: "Course Syllabus for General Physics",
+      cover: "/images/introduction-to-emerging-technologies-cover.jpg",
+      pdfUrl: "/pdfs/introduction-to-emerging-technologies.pdf",
+    },
+    {
+      id: 2,
+      name: "Course Syllabus for General Physics",
+      desc: "Inclusiveness: A Course for Higher Education of all Disciplines",
+      cover: "/images/course-syllabus-for-general-physics-cover.jpg",
+      pdfUrl: "/pdfs/course-syllabus-for-general-physics.pdf",
+    },
+    {
+      id: 3,
+      name: "Inclusiveness: A Course for Higher Education of all Disciplines",
+      desc: "Introduction to Emerging Technologies Course Module",
+      cover: "/images/inclusiveness-course-cover.jpg",
+      pdfUrl: "/pdfs/inclusiveness-course.pdf",
+    },
+    {
+      id: 4,
+      name: "Introduction to Emerging Technologies Course Module",
+      desc: "General Biology (Biol. 1012)",
+      cover: "/images/introduction-to-emerging-technologies-course-module-cover.jpg",
+      pdfUrl: "/pdfs/introduction-to-emerging-technologies-course-module.pdf",
+    },
+    {
+      id: 5,
+      name: "General Biology (Biol. 1012)",
+      desc: "Mathematics for Natural Sciences",
+      cover: "/images/general-biology-cover.jpg",
+      pdfUrl: "/pdfs/general-biology.pdf",
+    },
+    {
+      id: 6,
+      name: "Mathematics for Natural Sciences",
+      desc: "Mathematics for Social Sciences",
+      cover: "/images/mathematics-for-natural-sciences-cover.jpg",
+      pdfUrl: "/pdfs/mathematics-for-natural-sciences.pdf",
+    },
+    {
+      id: 7,
+      name: "Mathematics for Social Sciences",
+      desc: "Communicative English Language Skills II",
+      cover: "/images/mathematics-for-social-sciences-cover.jpg",
+      pdfUrl: "/pdfs/mathematics-for-social-sciences.pdf",
+    },
+    {
+      id: 8,
+      name: "Communicative English Language Skills II",
+      desc: "PHYSICAL FITNESS",
+      cover: "/images/communicative-english-language-skills-II-cover.jpg",
+      pdfUrl: "/pdfs/communicative-english-language-skills-II.pdf",
+    },
+    {
+      id: 9,
+      name: "PHYSICAL FITNESS",
+      desc: "MORAL AND CITIZENSHIP EDUCATION",
+      cover: "/images/physical-fitness-cover.jpg",
+      pdfUrl: "/pdfs/physical-fitness.pdf",
+    },
+    {
+      id: 10,
+      name: "MORAL AND CITIZENSHIP EDUCATION",
+      desc: "Introduction to Economics",
+      cover: "/images/moral-and-citizenship-education-cover.jpg",
+      pdfUrl: "/pdfs/moral-and-citizenship-education.pdf",
+    },
+  ];
+  
